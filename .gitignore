@@ -1,0 +1,31 @@
+.DS_Store
+/vue2/node_modules
+/vue2Ts/node_modules
+/vue2/dist
+/vue2Ts/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+/vue2/package-lock.json
+/vue2Ts/package-lock.json
+/.history
+/vue2/.history
+/vueTs/.history
